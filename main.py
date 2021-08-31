@@ -20,6 +20,8 @@ initial_block = YourSystem("YourBlock ", [t1,t2])
 print(initial_block.block_data)
 print(initial_block.block_hash)
 
+
+
 sec_block = YourSystem("YourBlock",[t4,t5])
 print(sec_block.block_data)
 print(sec_block.block_hash)
